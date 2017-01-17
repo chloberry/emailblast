@@ -1,0 +1,19 @@
+Dear ${PERSONNAME},
+
+My name is Chloe Chan, and I am a business student and sports enthusiast from Queen's University, Ontario, Canada.
+
+I'm reaching out to you as I came across your profile on your school website. I'm currently examining sports surfaces used by NCAA colleges and US pro-leagues. Given your expertise in managing athletic fields, I am particularly interested in chatting with you.
+
+In collaboration with a Fortune Global 100 chemical company, my team research project focuses on the North American sports turf market. I want to speak with the end users of athletic fields, such as yourself, to learn about what's valuable to you. More importantly, I want to identify the problems you wish could be resolved.
+
+As a starting point, my team wants to understand the market segment needs to develop next generation playing surface technology. 
+
+Would it be possible to get 40 minutes with you on the phone to ask you some questions about your sports surfaces, and what is important to you/the school/your student athletes?
+
+If you are willing, please let me know your preferences on time, and I would be happy to accommodate your busy schedule.
+        
+Thank you ${PERSONNAME} - I look forward to hearing back from you!
+
+
+Cheers,
+
